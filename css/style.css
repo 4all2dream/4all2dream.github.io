@@ -1,0 +1,213 @@
+*{
+    padding 0;
+    margin 0;
+    box-sizing: border-box;
+}
+body {
+    background: #f5f7fa;
+    font-family: 'Montserrat', sans-serif;
+    }
+.main_container{ 
+    margin: 40px 40px 40px 40px ;
+    clear: both; 
+    background: #fff;
+    box-shadow: 5px 9px 20px;
+    max-width: 1000px;
+    height: 2000px;
+    margin: auto;
+    box-sizing: content-box;
+    }
+.main_foto{
+    margin-top: 40px;
+    box-sizing: border-box;
+}
+.main_foto2{
+    margin-top: 20px;
+    margin:0 auto;
+    position: relative;
+} 
+.left_col{
+    width: 370px; 
+    height: 2000px;
+    display: block; 
+    float: left;
+    background-color: #1e2939;
+}
+.left_col_text{
+    padding-left: 40px;
+    padding-top: 100;
+}
+.contact_text{
+     color: #fff
+}
+.c_text{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 550;
+    line-height: 24px;
+}
+.e_text{
+    margin-top: 2px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 550;
+    line-height: 24px;
+    }
+.contact_text_link{
+    padding-left: 4px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color:#ffffff; 
+    text-decoration: none;  
+}
+.number_txt{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: none;
+}
+.contact_container{
+    padding-top: 40px;}
+.Tech_skills_title{
+    color: #fff;
+    padding-top: 30px;
+}
+.Tech_skills_item{
+    color: #ff6b08;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: -25px;
+}
+.Tech_skills_item_white{
+    color: #fff;
+}
+.Soft_skills_text{
+    color: #fff;
+}
+.Soft_skills_text_list {
+    color: #ff6b08;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: -25px;
+}
+.Soft_skills_text_list_white{
+    color: #fff;
+}
+.right_col{
+    background: white;
+    display: block; 
+    width: 920px;
+    height: 2000px;
+    margin: 40px;
+    }
+.right_col_text{
+padding-left: 400px;
+}
+.front_end_developer{
+    padding-top: 40px;
+    font-size: 20px;
+    font-weight: bold;font-size: 24px;
+    font-weight: bold;
+}
+.vadim_stetsenko_text{
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 24px;
+}
+.about_me_text{
+    font-size: 14px;
+    font-weight: 400;
+    width: auto;
+    margin-top:24px
+    overflow: hidden;
+}
+.projects_text{
+    margin-top: 25px;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+    margin-bottom: 10px;
+    }
+.project_number_text{
+    padding-left: 19px;
+    margin-top: 12px;
+    font-weight: bold;
+}
+.link_txt{
+    color: #595959;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: none;
+}
+.skobka{
+    color:black;
+    font-weight: bold;
+}
+.work_expirience_txt{
+    margin-top: 25px;
+    width: 197px;
+    height: 21px;
+    color: #000000;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.front_end_developer_freelance_txt{
+    margin-top: 18px;
+    width: 275px;
+    height: 15px;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+}
+.freelance_txt{
+    color: #ff6b08;
+    }
+.date_txt{
+    margin-top: 14px
+    color: #a8a8a8;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.manager_list_txt{
+    margin-left: -20px;
+    margin-top: 14px;
+    width: auto;
+    color: #595959;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    overflow: hidden;
+    box-sizing: content-box;
+}
+.education_txt{
+    margin-top: 25px;
+    color: #000000;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24px;    
+}
+.kpi_txt{
+    margin-top: 21px;
+    color: #ff6b08;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 24px;
+}
+.mands_txt{
+margin-top: 15;
+color: #000000;
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 700;
+line-height: 24p
+}
